@@ -38,7 +38,7 @@ Install dependencies:
 ```bash
 pip install torch tqdm
 ```
-📌 Usage
+## 📌 Usage
 Run the program:
 
 bash
@@ -51,12 +51,12 @@ train: Train a new model from your own text file
 
 run: Generate text using the previously trained model
 
-💡 Training Example
+## 💡 Training Example
 Provide a .txt file when prompted (e.g. shakespeare.txt)
 
 Model will train for 10 epochs (configurable)
 
-💬 Sample Inference
+## 💬 Sample Inference
 less
 Copy
 Edit
@@ -64,7 +64,7 @@ Enter prompt: Once upon a
 
 Generated Text:
 Once upon a time, the prince had a peculiar notion of justice and he...
-📈 Model Details
+## 📈 Model Details
 Embedding Size: 128
 
 LSTM Hidden Size: 256
