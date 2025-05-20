@@ -14,7 +14,7 @@ A minimal character-level language model (LLM) built with PyTorch. Easily train 
 
 ├── main.py # Entry point for training or running the model
 
-├──alex and jordan.pt # example model trained by this code
+├── alex and jordan.pt # example model trained by this code
 
 ├── ai_file.pt # Saved model (generated after training)
 
