@@ -75,5 +75,3 @@ Batch Size: 64
 
 Optimizer: Adam
 
-📎 License
-MIT License
